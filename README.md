@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-# Date: 29/11/2024
+# Date: 16/11/2024
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
@@ -21,7 +21,7 @@ Validate the HTML and CSS code.
 
 ## Step 6:
 Publish the website in the given URL.
-
+https://github.com/Jaiyantan-submissions/Image_Gallery
 # PROGRAM :
 
 # views.py:
